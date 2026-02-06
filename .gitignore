@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.sh
+refactor_nb_spanish.py
+refactor_nb.py
+Untitled.ipynb
+.DS_Store
